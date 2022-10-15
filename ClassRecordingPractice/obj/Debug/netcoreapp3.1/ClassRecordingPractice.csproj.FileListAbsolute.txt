@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\bin\Debug\netcoreapp3.1\ClassRecordingPractice.exe
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\bin\Debug\netcoreapp3.1\ClassRecordingPractice.deps.json
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\bin\Debug\netcoreapp3.1\ClassRecordingPractice.runtimeconfig.json
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\bin\Debug\netcoreapp3.1\ClassRecordingPractice.runtimeconfig.dev.json
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\bin\Debug\netcoreapp3.1\ClassRecordingPractice.dll
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\bin\Debug\netcoreapp3.1\ClassRecordingPractice.pdb
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\obj\Debug\netcoreapp3.1\ClassRecordingPractice.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\obj\Debug\netcoreapp3.1\ClassRecordingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\obj\Debug\netcoreapp3.1\ClassRecordingPractice.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\obj\Debug\netcoreapp3.1\ClassRecordingPractice.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\obj\Debug\netcoreapp3.1\ClassRecordingPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\obj\Debug\netcoreapp3.1\ClassRecordingPractice.dll
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\obj\Debug\netcoreapp3.1\ClassRecordingPractice.pdb
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\obj\Debug\netcoreapp3.1\ClassRecordingPractice.genruntimeconfig.cache
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\User\source\repos\ClassRecordingPractice\ClassRecordingPractice\obj\Debug\netcoreapp3.1\ClassRecordingPractice.csproj.CopyComplete
